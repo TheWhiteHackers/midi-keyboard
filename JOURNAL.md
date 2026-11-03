@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/cmvf0ouey0am301rc449o2oxr)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A custom MIDI keyboard with switches, sliders, rotary encoders, neo pixels, and capacitive touch!
+> This is a tiny keyboard that will be able to play sound!  It has multiple pieces, like buttons, sliders, and encoders, that I think will be used to change the sound.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
@@ -25,10 +25,3 @@
 [Timelapse](https://lookout.hackclub.com/api/media/9a4ae68f-8e98-48f0-80b4-d2d1cd01e49f/video.mp4)
 
 [Timelapse](https://lookout.hackclub.com/api/media/953970fd-b3a5-42c1-9ad0-59b07b72f654/video.mp4)
-
-## What I Did
-1. I started with arranging the components in the schematic editor
-2. Then in the pcb editor I organized the components in a keyboard shape
-3. I also had to create the pads for the keyboard
-4. Then I wired everything
-5. I added images to customize the keyboard
