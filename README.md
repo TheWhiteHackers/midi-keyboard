@@ -19,10 +19,10 @@ Here is the back of the silkscreen. Here I have added space themed pictures usin
 ![back of pcb editor](imgs/back.png)
 
 Here is the front of the silkscreen. I continued witht the same theme, however all images are in circles.
-![front of pcb editor](imgs/front.pngfront.png)
+![front of pcb editor](imgs/front.png)
 
 This is what my schematic editor looked like once I was done
-![schematic editor](imgs/editor.pngeditor.png)
+![schematic editor](imgs/editor.png)
 
 
 
